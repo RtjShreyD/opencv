@@ -54,9 +54,9 @@ sudo apt-get install libtiff-devel
 sudo apt-get install libwebp-devel
 Downloading OpenCV
 
-To download the latest source from OpenCV's GitHub Repository. (If you want to contribute to OpenCV choose this. For that, you need to install Git first)
+To download the latest source from OpenCV's GitHub Repository or from https://github.com/RtjShreyD/opencv . (If you want to contribute to OpenCV choose this. For that, you need to install Git first)
 $ sudo apt-get install git
-$ git clone https://github.com/opencv/opencv.git
+$ git clone https://github.com/opencv/opencv.git    OR $ git clone https://github.com/RtjShreyD/opencv.git
 
 It will create a folder "opencv" in current directory. The cloning may take some time depending upon your internet connection.
 
